@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388022291570",
+    "project_id": "useless-chat-957c7",
+    "storage_bucket": "useless-chat-957c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388022291570:android:87f1010ab06531b71bc6eb",
+        "android_client_info": {
+          "package_name": "com.example.uslesschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388022291570-666teqvo6l3bh3tpv0btik6h57nrfokg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp7NL1HfGxQziI4RebUCa1ljhXuZvGbc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388022291570-666teqvo6l3bh3tpv0btik6h57nrfokg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
